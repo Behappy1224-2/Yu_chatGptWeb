@@ -1,1 +1,5 @@
 ![](./chatGpt_starter_template/static/images/Project_report.pdf-1-12.jpg)
+![](./chatGpt_starter_template/static/images/Project_report.pdf-2-2.jpg)
+![](./chatGpt_starter_template/static/images/Project_report.pdf-3-3.jpg)
+![](./chatGpt_starter_template/static/images/Project_report.pdf-4-4.jpg)
+![](./chatGpt_starter_template/static/images/Project_report.pdf-5-5.jpg)
